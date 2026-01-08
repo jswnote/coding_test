@@ -1,3 +1,6 @@
+#바이러스
+#그래프 만드는 문법 중요
+
 import sys
 
 def dfs(graph, visited, v):
